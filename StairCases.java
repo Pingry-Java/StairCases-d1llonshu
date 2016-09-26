@@ -21,6 +21,7 @@ public static void main(String[] args)
 	
 	
     printAscending(size);
+	System.out.println("");
     printDescending(size);
   }
 
